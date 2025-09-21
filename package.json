@@ -1,0 +1,22 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbrindha007/Food-Delivery-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbrindha007/Food-Delivery-App/issues"
+  },
+  "homepage": "https://github.com/dbrindha007/Food-Delivery-App#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
